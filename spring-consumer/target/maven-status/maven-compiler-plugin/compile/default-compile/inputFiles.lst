@@ -1,0 +1,4 @@
+/Users/jgc/work/spring-parent/spring-consumer/src/main/java/com/netease/cloud/test/consumer/rest/Consumer.java
+/Users/jgc/work/spring-parent/spring-consumer/src/main/java/com/netease/cloud/test/consumer/feign/FeignController.java
+/Users/jgc/work/spring-parent/spring-consumer/src/main/java/com/netease/cloud/test/consumer/feign/FeignService.java
+/Users/jgc/work/spring-parent/spring-consumer/src/main/java/com/netease/cloud/test/consumer/hystrix/FallbackService.java
