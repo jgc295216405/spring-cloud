@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/spring-common/spring-common.iml" filepath="$PROJECT_DIR$/spring-common/spring-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-consumer/spring-consumer.iml" filepath="$PROJECT_DIR$/spring-consumer/spring-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-discover/spring-discover.iml" filepath="$PROJECT_DIR$/spring-discover/spring-discover.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-parent.iml" filepath="$PROJECT_DIR$/spring-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-service2/spring-service2.iml" filepath="$PROJECT_DIR$/spring-service2/spring-service2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-service3/spring-service3.iml" filepath="$PROJECT_DIR$/spring-service3/spring-service3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-zipkin/spring-zipkin.iml" filepath="$PROJECT_DIR$/spring-zipkin/spring-zipkin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-zuul/spring-zuul.iml" filepath="$PROJECT_DIR$/spring-zuul/spring-zuul.iml" />
+    </modules>
+  </component>
+</project>

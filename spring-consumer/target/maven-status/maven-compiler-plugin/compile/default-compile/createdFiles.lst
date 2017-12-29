@@ -1,0 +1,4 @@
+com/netease/cloud/test/consumer/feign/FeignController.class
+com/netease/cloud/test/consumer/feign/FeignService.class
+com/netease/cloud/test/consumer/rest/Consumer.class
+com/netease/cloud/test/consumer/hystrix/FallbackService.class
